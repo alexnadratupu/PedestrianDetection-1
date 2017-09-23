@@ -1,4 +1,7 @@
 # DeepCascade implemented by Sylar #
+
+# This repo is very old and probably won't work anymore!!! #
+
 reference paper: [Real-Time Pedestrian Detection With Deep Network Cascades](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43850.pdf)
 
 The difference written by me is in 
